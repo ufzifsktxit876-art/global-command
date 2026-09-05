@@ -1,0 +1,2 @@
+-keep class key.boo.ard.ali.PersianKeyboardService { *; }
+-keep class key.boo.ard.ali.GKeyboardView { *; }
